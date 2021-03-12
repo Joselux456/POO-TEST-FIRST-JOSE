@@ -1,7 +1,7 @@
 # POO-TEST-FIRST-JOSE
 ## I: Memoria
 * Diagrama
-* ![Diagrama 1-MemoriaP](https://user-images.githubusercontent.com/78450716/110181397-b603a700-7dd9-11eb-8a7b-e68e3c5be1f7.png
+* ![Diagrama 1 1-MemoriaP](https://user-images.githubusercontent.com/78450716/111009788-8ff27f80-8362-11eb-8ae8-3e29eefb6555.png)
 ## III: Diseño
 ![Diagrama Diseño Parcial Mejora](https://user-images.githubusercontent.com/78450716/111008863-10fc4780-8360-11eb-9c52-59768201c5e6.png)
 ## IV: Conceptos
